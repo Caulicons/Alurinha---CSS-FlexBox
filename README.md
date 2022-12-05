@@ -1,5 +1,13 @@
 # Alurinha página com foco no treinamento de CSS flexbox
 
-Meu projeto final do curso de css FlexBox da alura "FlexBox: posicione elementos na tela" com o orientado Yuri Padilha, [segue seu Linkedin](https://www.linkedin.com/in/yuri-padilha/).
+![project preview](./preview.gif)
 
-Caso queira da uma olhada rapida nesse meu projeto, clique [aqui](https://alurinha-css-flex-box.vercel.app/).
+Aprofundando o conhecimento de CSS FlexBox. 🚥
+
+Meu projeto final do curso de CSS FlexBox da alura, "FlexBox: posicione elementos na tela" da alura, orientado pelo professor Yuri Padilha, [segue seu Linkedin](https://www.linkedin.com/in/yuri-padilha/).
+
+Caso queiram da uma olhada no site, só clicar [aqui](https://lnkd.in/gGhWS52T).
+
+Já ser quiserem da uma olhada no código segue link do GitHub: https://lnkd.in/g2gkPz4q
+
+
